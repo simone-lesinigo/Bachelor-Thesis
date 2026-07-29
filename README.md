@@ -10,7 +10,7 @@ The system is designed to help companies **organize and manage online interviews
 
 ## 📚 Thesis Information
 
-- **Author:** Simone Lesinigo ([GitHub](https://github.com/Leso246))
+- **Author:** Simone Lesinigo ([GitHub](https://github.com/simone-lesinigo))
 - **University:** University of Milano-Bicocca
 - **Degree:** Bachelor's in Computer Science
 - **Grade:** 108/110

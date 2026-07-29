@@ -10,7 +10,7 @@ Il sistema è progettato per aiutare le aziende a **organizzare e gestire effica
 
 ## 📚 Informazioni sulla Tesi
 
-- **Autore:** Simone Lesinigo ([GitHub](https://github.com/Leso246))
+- **Autore:** Simone Lesinigo ([GitHub](https://github.com/simone-lesinigo))
 - **Università:** Università degli Studi di Milano-Bicocca
 - **Corso di Laurea:** Informatica (Laurea Triennale)
 - **Voto:** 108/110
